@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="pendulum2.gif" alt="Pendulum Simulation" width="800">
+  <img src="pendulum2.gif" alt="Pendulum Simulation" width="600">
 </div>
 
 # Pendulum Simulation — Numerical Integration
