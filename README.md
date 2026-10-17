@@ -2,9 +2,9 @@
   <img src="pendulum2.gif" alt="Pendulum Simulation" width="600">
 </div>
 
-# Pendulum Simulation — Numerical Integration
+# Pendulum Simulation
 
-A Python simulation of a damped pendulum, built by numerically solving its differential equation and visualizing its motion with Matplotlib.
+A Python simulation of a damped pendulum, built by numerically solving its 2nd order differential equation and visualizing its motion with Matplotlib.
 
 ## Mathematical Model
 
