@@ -1,4 +1,4 @@
-![Pendulum Simulation](pendulum.gif)
+![Pendulum Simulation](pendulum2.gif)
 
 # Pendulum Simulation — Numerical Integration
 
