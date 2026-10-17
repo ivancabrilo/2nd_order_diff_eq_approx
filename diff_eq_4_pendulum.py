@@ -38,7 +38,7 @@ def theta(t):
         
     return x_positions,y_positions, theta_angles
 
-x_positions, y_positions, theta_angles = theta(t=200)
+x_positions, y_positions, theta_angles = theta(t=15)
 
 
 fig, ax = plt.subplots()
