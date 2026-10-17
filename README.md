@@ -1,4 +1,4 @@
-![Pendulum Simulation](pendulum2.gif)
+<img src="pendulum2.gif" alt="Pendulum Simulation" width="450">
 
 # Pendulum Simulation — Numerical Integration
 
